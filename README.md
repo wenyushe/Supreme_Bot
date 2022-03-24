@@ -1,4 +1,4 @@
-# supreme_bot
+# Supreme_bot
 
 This is a Supreme bot that is used on the Supreme website to buy highly demanded clothing items with high resale value. When Supreme releases a sneaker, this bot attempts to buy the desired item before it sells out.
 
